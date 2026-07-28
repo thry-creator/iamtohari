@@ -104,22 +104,25 @@ section {
 }
 
 .home-content h3 {
-    font-size:10x;
-    font-weight: 300;   
-    color: #0b87ed ; 
+    text-align: left;
+    font-size:8x;
+    font-weight: 400;   
+    color: #0b87ed ;
+    text-shadow: 20px 20px 20px #faf9f9; 
+    width: 280px;
 }
 
-.highlight, fokus {
-    background: #00abf0;
+.highlight, .fokus {
+    background: #0255a8;
     color: #fff;
-    padding: 3px 8px;
+    padding: 0px 0px;
 }
 
 .home-content p {
     font-size:14px;
     width: 300px;
-    margin: 20px 0 40px;
-    line-height: 1.4rem; 
+    margin: 15px 0 30px;
+    line-height: 1.2rem; 
 }
 
 .home-content .btn-box {
